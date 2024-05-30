@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\bin\Debug\net6.0\Server.exe
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\bin\Debug\net6.0\Server.deps.json
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\bin\Debug\net6.0\Server.dll
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\bin\Debug\net6.0\Server.pdb
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\Server.dll
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\refint\Server.dll
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\Server.pdb
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Server\obj\Debug\net6.0\ref\Server.dll

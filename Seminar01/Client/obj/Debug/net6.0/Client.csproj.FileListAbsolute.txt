@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\bin\Debug\net6.0\Client.exe
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\bin\Debug\net6.0\Client.deps.json
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\bin\Debug\net6.0\Client.dll
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\bin\Debug\net6.0\Client.pdb
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\Client.dll
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\refint\Client.dll
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\Client.pdb
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\AppNetworkCSharp\Seminar01\Client\obj\Debug\net6.0\ref\Client.dll

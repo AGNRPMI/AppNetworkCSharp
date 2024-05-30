@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ChatClient": {
+      "commandName": "Project",
+      "commandLineArgs": "клиент 127.0.0.1",
+      "workingDirectory": "F:\\Рабочая папка\\Project_CSharp\\GB\\AppNetworkCSharp\\Seminar01\\Client\\bin\\Debug\\net6.0"
+    }
+  }
+}
